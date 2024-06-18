@@ -36,11 +36,12 @@ MVVM, Jetpack Navigation Component, Room, Kotlin Flows, Git, GSON, Kotlin Corout
 
 # Freelance Android apps
 
-## 1. Carrier App
-## 2. Suvchi
-## 3. Suvchi Admin 
-## 3. Elektronika
-## 4. Signallar hám sistemalar
+##  Signallar hám sistemalar
+##  Elektronika
+##  Suvchi Admin
+##  Suvchi
+##  SimSim 
+##  Carrier App
 
 # Hobby Android apps
 ## 1. From2 - Uzbek-to-Karakalpak and Karakalpak-to-Uzbek translator works with from-to.uz API
