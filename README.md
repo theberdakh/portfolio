@@ -18,7 +18,7 @@ The portfolio consists of 5 main sections. Short descriptions are written as not
 ## 1. Túsindirme Sózlik 
 
 <p align="center">
- <img src="https://github.com/theberdakh/portfolio/blob/main/banner/tusindirme_sozlik.png" width="869" height="416" />
+ <img src="https://github.com/theberdakh/portfolio/blob/main/banner/tusindirme_sozlik.png" width="9566" height="4177" />
 </p>
 
 <p align="center">
