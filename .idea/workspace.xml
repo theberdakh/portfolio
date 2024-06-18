@@ -45,6 +45,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IdeaProjects/portfolio",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,6 +55,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\portfolio\banner" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718691261967</updated>
-      <workItem from="1718691263316" duration="1425000" />
+      <workItem from="1718691263316" duration="3245000" />
     </task>
     <servers />
   </component>

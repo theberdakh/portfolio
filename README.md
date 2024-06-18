@@ -14,6 +14,26 @@ The portfolio consists of 5 main sections. Short descriptions are written as not
 
 # Production Android apps
 
+
+## 1. Túsindirme Sózlik 
+
+<p align="center">
+ <img src="https://github.com/theberdakh/portfolio/blob/main/banner/tusindirme_sozlik.png" width="869" height="416" />
+</p>
+
+<p align="center">
+ <a href="https://play.google.com/store/apps/details?id=com.karsoft.tusindirmesozlik">
+   <img  src="https://img.shields.io/badge/Play Store-00875f?style=for-the-badge&logo=google&logoColor=white">
+ </a>
+</p>
+
+Túsindirme sózlik is the biggest source to find correct meanings of words in Karakalpak language. It's grant winning project sponsered by the government. 
+
+- **5000+ downloads in Google Play Store so far**
+- **4.4 overall stars in Google Play Store**
+
+MVVM, Jetpack Navigation Component, Room, Kotlin Flows, Git, GSON, Kotlin Coroutines, Koin, ViewBinding, Jetpack Paging2, Material2,  Motion Layout, Threading
+
 # Freelance Android apps
 
 # Hobby Android apps
